@@ -1,1 +1,4 @@
 build/
+alpine/aports/
+alpine/iso/
+alpine/tmp/
